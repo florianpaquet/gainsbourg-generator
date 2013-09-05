@@ -17,7 +17,6 @@ start_words = [
     u"Si j'aime ça",
     u"Peut importe",
     u"Obsédé",
-    u"Peut importe",
 ]
 
 middle_words = [
